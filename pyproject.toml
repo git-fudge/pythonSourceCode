@@ -4,7 +4,7 @@ requires = ["setuptools>=61.0"]
 [project]
 name = "myUniquePythonPackageName"
 description = "Simple calculator API hosted on APIMATIC"
-version = "5.5.103"
+version = "5.5.104"
 requires-python = ">=3.7"
 keywords = []
 authors = [{name = "RandomPerson", email = "randomEmail@testing.com"}]
