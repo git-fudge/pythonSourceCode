@@ -11,11 +11,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install myUniquePythonPackageName==5.5.104
+pip install myUniquePythonPackageName==5.5.106
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/myUniquePythonPackageName/5.5.104
+https://pypi.python.org/pypi/myUniquePythonPackageName/5.5.106
 
 ## Test the SDK
 
@@ -30,7 +30,7 @@ pytest
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://github.com/git-fudge/pythonSourceCode/blob/5.5.104/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://github.com/git-fudge/pythonSourceCode/blob/5.5.106/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -57,11 +57,11 @@ client = ApimaticcalculatorClient()
 
 ## List of APIs
 
-* [Simple Calculator](https://github.com/git-fudge/pythonSourceCode/blob/5.5.104/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://github.com/git-fudge/pythonSourceCode/blob/5.5.106/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://github.com/git-fudge/pythonSourceCode/blob/5.5.104/doc/utility-classes.md)
-* [HttpResponse](https://github.com/git-fudge/pythonSourceCode/blob/5.5.104/doc/http-response.md)
-* [HttpRequest](https://github.com/git-fudge/pythonSourceCode/blob/5.5.104/doc/http-request.md)
+* [Utility Classes](https://github.com/git-fudge/pythonSourceCode/blob/5.5.106/doc/utility-classes.md)
+* [HttpResponse](https://github.com/git-fudge/pythonSourceCode/blob/5.5.106/doc/http-response.md)
+* [HttpRequest](https://github.com/git-fudge/pythonSourceCode/blob/5.5.106/doc/http-request.md)
 
