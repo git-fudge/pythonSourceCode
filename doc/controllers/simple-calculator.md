@@ -33,12 +33,16 @@ def get_calculate(self,
 ## Example Usage
 
 ```python
-collect = {
-    'operation': OperationTypeEnum.MULTIPLY,
-    'x': 222.14,
-    'y': 165.14
-}
+collect = {}
+operation = OperationTypeEnum.MULTIPLY
+collect['operation'] = operation
+
+x = 222.14
+collect['x'] = x
+
+y = 165.14
+collect['y'] = y
+
 result = simple_calculator_controller.get_calculate(collect)
-print(result)
 ```
 
