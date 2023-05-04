@@ -11,11 +11,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.10`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install myUniquePythonPackageName==1.0.970
+pip install myUniquePythonPackageName==1.1.999
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/myUniquePythonPackageName/1.0.970
+https://pypi.python.org/pypi/myUniquePythonPackageName/1.1.999
 
 ## Test the SDK
 
