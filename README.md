@@ -7,15 +7,15 @@ Simple calculator API hosted on APIMATIC
 
 ## Install the Package
 
-The package is compatible with Python versions `3 >=3.7, <= 3.10`.
+The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install myUniquePythonPackageName==1.1.999
+pip install myUniquePythonPackageName==1.2.999
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/myUniquePythonPackageName/1.1.999
+https://pypi.python.org/pypi/myUniquePythonPackageName/1.2.999
 
 ## Test the SDK
 
@@ -30,7 +30,7 @@ pytest
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://github.com/git-fudge/pythonSourceCode/blob/1.2.999/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -52,17 +52,16 @@ The API client can be initialized as follows:
 from apimaticcalculator.apimaticcalculator_client import ApimaticcalculatorClient
 from apimaticcalculator.configuration import Environment
 
-client = ApimaticcalculatorClient(
-    environment=Environment.PRODUCTION,)
+client = ApimaticcalculatorClient()
 ```
 
 ## List of APIs
 
-* [Simple Calculator](doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://github.com/git-fudge/pythonSourceCode/blob/1.2.999/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](doc/utility-classes.md)
-* [HttpResponse](doc/http-response.md)
-* [HttpRequest](doc/http-request.md)
+* [Utility Classes](https://github.com/git-fudge/pythonSourceCode/blob/1.2.999/doc/utility-classes.md)
+* [HttpResponse](https://github.com/git-fudge/pythonSourceCode/blob/1.2.999/doc/http-response.md)
+* [HttpRequest](https://github.com/git-fudge/pythonSourceCode/blob/1.2.999/doc/http-request.md)
 

@@ -21,8 +21,7 @@ The API client can be initialized as follows:
 from apimaticcalculator.apimaticcalculator_client import ApimaticcalculatorClient
 from apimaticcalculator.configuration import Environment
 
-client = ApimaticcalculatorClient(
-    environment=Environment.PRODUCTION,)
+client = ApimaticcalculatorClient()
 ```
 
 ## APIMATIC Calculator Client
