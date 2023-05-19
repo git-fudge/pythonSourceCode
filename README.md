@@ -11,11 +11,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install myUniquePythonPackageName==1.11.996
+pip install myUniquePythonPackageName==9.0.333
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/myUniquePythonPackageName/1.11.996
+https://pypi.python.org/pypi/myUniquePythonPackageName/9.0.333
 
 ## Test the SDK
 
@@ -30,7 +30,7 @@ pytest
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/git-fudge/pythonSourceCode/tree/1.11.996/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/git-fudge/pythonSourceCode/tree/9.0.333/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -57,11 +57,11 @@ client = ApimaticcalculatorClient()
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/git-fudge/pythonSourceCode/tree/1.11.996/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/git-fudge/pythonSourceCode/tree/9.0.333/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/git-fudge/pythonSourceCode/tree/1.11.996/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/git-fudge/pythonSourceCode/tree/1.11.996/doc/http-response.md)
-* [HttpRequest](https://www.github.com/git-fudge/pythonSourceCode/tree/1.11.996/doc/http-request.md)
+* [Utility Classes](https://www.github.com/git-fudge/pythonSourceCode/tree/9.0.333/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/git-fudge/pythonSourceCode/tree/9.0.333/doc/http-response.md)
+* [HttpRequest](https://www.github.com/git-fudge/pythonSourceCode/tree/9.0.333/doc/http-request.md)
 
